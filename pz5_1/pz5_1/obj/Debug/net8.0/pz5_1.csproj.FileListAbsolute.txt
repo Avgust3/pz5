@@ -1,0 +1,14 @@
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\bin\Debug\net8.0\pz5_1.exe
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\bin\Debug\net8.0\pz5_1.deps.json
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\bin\Debug\net8.0\pz5_1.runtimeconfig.json
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\bin\Debug\net8.0\pz5_1.dll
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\bin\Debug\net8.0\pz5_1.pdb
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\obj\Debug\net8.0\pz5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\obj\Debug\net8.0\pz5_1.AssemblyInfoInputs.cache
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\obj\Debug\net8.0\pz5_1.AssemblyInfo.cs
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\obj\Debug\net8.0\pz5_1.csproj.CoreCompileInputs.cache
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\obj\Debug\net8.0\pz5_1.dll
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\obj\Debug\net8.0\refint\pz5_1.dll
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\obj\Debug\net8.0\pz5_1.pdb
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\obj\Debug\net8.0\pz5_1.genruntimeconfig.cache
+C:\Users\Avgust\source\repos\pz5_1\pz5_1\obj\Debug\net8.0\ref\pz5_1.dll
